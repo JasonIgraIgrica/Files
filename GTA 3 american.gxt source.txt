@@ -4,160 +4,160 @@
 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"$,.'-?!!SDBF
 
 [DEFNAM]							   
-Claude----------------------
+Klaud----------------------
 
 
 {GENERIC GAME PROMPTS}
 
 [IN_VEH]
-~g~Hey! Get back in the vehicle!
+~g~Hej! Vrati se u vozilo!
 
 [IN_VEH2]
-~g~You need some wheels for this job!
+~g~Trebaju ti neka kola za ovu misiju!
 
 [IN_BOAT]
-~g~You need a boat for this job!
+~g~Treba ti brod za ovu misiju!
 
 [HEY] 
-~g~Don't go solo, keep your posse together!
+~g~Ne idi sam, Drži svoj posse zajedno!
 
 [HEY2]
-~g~Don't split up, keep the group together!
+~g~Ne razdvajaj se, drži svoju grupu zajedno!
 
 [HEY3]
-~g~You've dropped your main man, go back and get 8-Ball!
+~g~Ostavio si svog glavnog čovjeka, Idi nazad i nabavi 8-Ball!
 
 [HEY4]
-~g~Lose Misty and Luigi will lose your face! Go and get her!
+~g~Izgubi Misti i Luigi će izgubiti tvoje lice! Idi do nje!
 
 [HEY5]
-~g~One of the girls is AWOL, Go back and round her up!
+~g~Jedna od djevojaka je AWOL, Idi nazad i pokupi je!
 
 [HEY6]
-~g~You left your honor with the Yakuza Kanbu. You must protect him!
+~g~Ostavio si svoju čast sa Jakuzom Ganbu. Moraš da ga štitiš!
 
 [HEY7]
-~g~An extra gun could be useful. Go back and pick up your contact!
+~g~Višak puška bi bila dobra. Idi nazad i pokupi svog kontakta!
 
 [HEY8]
-~g~Protection means just that -Protect the Old Oriental Gentleman!
+~g~Zaštita znači da -Štiti Staru Orijentalno gospodu!
 
 [HEY9]
-~g~You want the word on the street? Go see the contact!
+~g~Želiš riječ na ulici? Idi vidi kontakta!
 
 [HELP2_A]
-Press the ~h~/ button~w~ when running to ~h~sprint.
+Pritisni ~h~/ dugme~w~ kada trčiš da ~h~sprintuješ.
 
 [HELP3]
-You can only sprint for short periods before becoming tired.
+Možeš samo sprintati period prije nego što se umoriš.
 
 [HELP4_A]
-Press the~h~ ~k~~VEHICLE_ACCELERATE~ button~w~ to ~h~accelerate.
+Pritisni~h~ ~k~~VEHICLE_ACCELERATE~ dugmen~w~ da ~h~daš gas.
 
 [HELP4_D]
-Push the~h~ right analog stick~w~ up to ~h~accelerate.
+Drži~h~ desni analog~w~ gore da ~h~daš gas.
 
 [HELP5_A]
-Press the~h~ ~k~~VEHICLE_BRAKE~ button~w~ to ~h~brake~w~, or to ~h~reverse~w~ if the vehicle has stopped.
+Pritisni~h~ ~k~~VEHICLE_BRAKE~ dugme~w~ da ~h~kočiš~w~, ili da se ~h~okreneš~w~ da bi se vozilo zaustavilo.
 
 [HELP5_D]
 Pull the ~h~right analog stick~w~ back to ~h~brake~w~, or to ~h~reverse~w~ if the vehicle has stopped.
 
 [HELP6_A]
-Press the~h~ ~k~~VEHICLE_HANDBRAKE~ button ~w~to apply the vehicle's ~h~handbrake.
+Pritisni~h~ ~k~~VEHICLE_HANDBRAKE~ dugme ~w~da bi povukao ~h~ručnu kočnicu.
 
 [HELP6_C]
-Press the~h~ ~k~~VEHICLE_HANDBRAKE~ button ~w~to apply the vehicle's ~h~handbrake.
+Pritisni~h~ ~k~~VEHICLE_HANDBRAKE~ dugme ~w~da bi povukao ~h~ručnu kočnicu.
 
 [HELP6_D]
-Press the~h~ ~k~~VEHICLE_HANDBRAKE~ button ~w~to apply the vehicle's ~h~handbrake.
+Pritisni~h~ ~k~~VEHICLE_HANDBRAKE~ dugme ~w~da povučeš ~h~ručnu kočnicu.
 
 [HELP7_A]
-Press and hold the~h~ ~k~~PED_LOCK_TARGET~ button ~w~to ~h~target~w~ with the sniper rifle.
+Pritisni i drži~h~ ~k~~PED_LOCK_TARGET~ dugme ~w~da ~h~ciljaš~w~ sa snajperom.
 
 [HELP7_D]
-Press and hold the~h~ ~k~~PED_LOCK_TARGET~ button ~w~to ~h~target ~w~with the sniper rifle.
+Pritisni i drži~h~ ~k~~PED_LOCK_TARGET~ dugme ~w~da ~h~ciljaš ~w~Sa snajperom.
 
 [HELP8_A]
-Press the~h~ ~k~~PED_SNIPER_ZOOM_IN~ button ~w~to ~h~zoom in ~w~with the rifle and the~h~ ~k~~PED_SNIPER_ZOOM_OUT~ button ~w~to ~h~zoom out ~w~again.
+Pritisni~h~ ~k~~PED_SNIPER_ZOOM_IN~ dugme ~w~da ~h~zumiraš ~w~sa snajperom i~h~ ~k~~PED_SNIPER_ZOOM_OUT~ dugme ~w~da ~h~odzumiraš ~w~ponovo.
 
 [HELP9_A]
-Press the~h~ ~k~~PED_FIREWEAPON~ button ~w~to ~h~fire~w~ the sniper rifle.
+Pritisni~h~ ~k~~PED_FIREWEAPON~ dugme ~w~da ~h~pucaš~w~ sa snajperom.
 
 [HELP10]
-This badge indicates you have a police wanted level.
+Ova značka ti govori da imaš Wanted level.
 
 [HELP11]
-The more badges the higher your wanted level.
+Što više znački imaš, više te policije lovi.
 
 [HELP13]
-Sometimes you may need to use pathways not shown on the radar.
+Nekada moraš da koristiš puteve koji nisu prikazani na mapi.
 
 [TIMER]
-This is a timed mission, you must complete it before the timer counts down to zero.
+Ovo je tajmirana misija, moraš da je pređeš prije nego vrijeme dođe do nule.
 
 [MISTY1]
-~r~Misty is morgue-meat!
+~r~Misti je meso mrtvačnice!
 
 [OUT_VEH]
-~g~Get out of the vehicle!
+~g~Izađi iz vozila!
 
 [GARAGE]
-Drive the vehicle into the garage, then walk outside.
+Odvezi vozilo do garaže, pa odšetaj napolje.
 
 [WANTED1]
-~g~Shake the cops and lose your wanted level!
+~g~Izgubi policiju i smanji Wanted Level!
 
 [NODOORS]
-~g~They ain't sardines! Get some wheels with enough seats.
+~g~Oni nisu sardine! Nađi neko vozilo sa dovoljno sjedala.
 
 [TRASH]
-~g~You've junked your wheels real bad! Get your vehicle repaired!
+~g~Slupao si svoje auto! Odvezi ga na popravak!
 
 [WRECKED]
-~r~The vehicle is wrecked!
+~r~Vozilo je slupano!
 
 [HORN]
-~g~Sound the horn.
+~g~Svirni.
 
 [NOMONEY]
-~g~You need more cash!
+~g~Treba ti više novca!
 
 [OUTTIME]
-~r~Too slow, man, too slow!
+~r~Pre sporo,čovječe.pre sporo!
 
 [SPOTTED]
-~r~They're on to you!
+~r~Jure te!
 
 [REWARD]
-REWARD $~1~
+NAGRADA $~1~
 
 [GameOvr]
-GAME OVER
+IGRA GOTOVA
 
 [Z] {z axis value}
 Z-axis value: ~1~
 
 [M_FAIL]
-MISSION FAILED!
+MISIJA NEUSPJEŠNA!
 
 [M_PASS]
-MISSION PASSED! $~1~
+MISIJA USPJEŠNA! $~1~
 
 [O_PASS]
-ODD JOB PASSED!
+ČUDNI POSAO USPJEŠAN!
 
 [O_FAIL]
-ODD JOB FAILED!
+ČUDNI POSAO NEUSPJEŠAN!
 
 [DEAD]
-WASTED!
+UMRO SI!
 
 [BUSTED]
-BUSTED!
+UHAPŠEN SI!
 
 [S_PROMP]
-When not on a mission you can ~h~save your game here~w~, this will advance time six hours.
+Kada nisi na misiji ~h~Sačuvaj svoju igro ovdje~w~, Ovaj postupak če preskočiti 6 sati u igri.
 
 
 [NUMBER]
@@ -167,204 +167,204 @@ When not on a mission you can ~h~save your game here~w~, this will advance time 
 $~1~ 
 
 [LOADCAR]
-LOADING VEHICLE... (PRESS L1 TO CANCEL)
+OČITAVANJE VOZILA... 
 
 [CARSOFF]
-Cars turned off.
+Auto je ugašeno.
 
 [CARS_ON]
-Cars turned on.
+Auto je upaljeno.
 
 [TEXTXYZ]
-Writing coordinates to file...
+Pisanje kordinata u fajl...
 
 [CHEATON]
-Cheat mode ON
+Šifra AKTIVIRANA
 
 [CHEATOF]
-Cheat mode OFF
+Šifra DEAKTIVIRANA
 
 [UZI_IN]
-The Uzi is now in stock at Ammunation!
+Uzi je sada dostupan u Mu-Naciji!
 
 [IMPORT1]
-Go outside and wait for your vehicle.
+Idi napolje i sačekaj tvoje vozilo.
 
 [PAGEB1]
-Pistol delivered to hideout
+Pištolj odvezen u skrovište
 
 [PAGEB2]
-Uzi delivered to hideout
+Uzi odvezen u skrovište
 
 [PAGEB3]
-Body armor delivered to hideout
+Armor odvezen u skrovište
 
 [PAGEB4]
-Shotgun delivered to hideout
+Pumparica odvezena u skrovište
 
 [PAGEB5]
-grenades delivered to hideout
+Granate odvezene u skrovište
 
 [PAGEB6]
-molotovs delivered to hideout
+Molotovi odvezeni u skrovište
 
 [PAGEB7]
-AK47 delivered to hideout
+AK47 odvezen u skrovište
 
 [PAGEB8]
-Sniper rifle delivered to hideout
+Snajper odvezen u skrovište
 
 [PAGEB9]
-M16 delivered to hideout
+M16 odvezena u skrovište
 
 [PAGEB10]
-Rocket Launcher delivered to hideout
+Bacač raketa odvezen u skrovište
 
 [PAGEB11]
-Flamethrower delivered to hideout
+Bacač plamena odvezen u skrovište
 
 
 {--------WANTED/HEALTH TEXT-------------}
 
 [WANT_A]
-You will only be arrested if you have a ~h~wanted level.
+Bit češ uhapšen samo ako imaš ~h~Wanted level.
 
 [WANT_B]
-Your ~h~wanted level~w~ is represented by the row of stars in the top right of the screen.
+Tvoj ~h~wanted level~w~ je prikazan sa 6 zvjezdica u gornjem desnom uglu.
 
 [WANT_C]
-You now have a ~h~wanted level~w~ of one...
+Sada imaš ~h~wanted level~w~ od jednog...
 
 [WANT_D]
-two...
+dvoje...
 
 [WANT_E]
-three...
+troje...
 
 [WANT_F]
-As your ~h~wanted level~w~ increases you will attract more powerful forms of law enforcement.
+Nakon što se tvoj ~h~wanted level~w~ poveća, ti ćeš privuči više jačih jedinica.
 
 [WANT_G]
-When you are ~h~'busted'~w~ you are returned to the nearest police station.
+Kada si ~h~'uhapšen'~w~ Vratit ćeš se u policijsku stanicu.
 
 [WANT_H]
-The cops will take all your weapons and some of your cash as a bribe.
+Policajci će ti oduzeti svo oružje i uzet će ti malo para kao mito.
 
 [WANT_I]
-Any mission you were on will be failed.
+Bilo koja misija u kojoj si bio bit će Neuspješna.
 
 [WANT_J]
-You will find ways of reducing your wanted level the more you play.
+Sve što više igraš naći ćeš sve više načina da smanjiš Wantel Level.
 
 [WANT_K]
-If you are in a car, ~h~SPRAY SHOPS~w~ will ~h~clear your wanted level.
+Ako si u autu, ~h~RADNJE SA SPREJEVIMA~w~ će ti ~h~Ugasiti Wanted level.
 
 [HEAL_B]
-When you are ~h~'wasted'~w~ you are returned to the nearest hospital.
+Kada si ~h~'mrtav'~w~ Vratit ćeš se do najbliže bolnice.
 
 [HEAL_C]
-You will lose your weapons and the doctors will take some cash for patching you up.
+Izgubit ćeš svoja oružja i doktori će uzeti malo novca za liječenje.
 
 [HEAL_E]
-You will find ways of healing or protecting yourself the more you play the game.
+Što više igraš igricu, Nači češ više načina da vratiš Helte.
 
 {--------COUNTER STRINGS------------}
 
 [DAM]
-DAMAGE:
+ŠTETA:
 
 [KILLS]
-KILLS:
+UBISTVA:
 
 [FARES]
-FARES:
+STRAHOVI:
 
 [BULL]
 BULLION:
 
 [EVID]
-EVIDENCE:
+DOKAZ:
 
 [HEALTH]
-CAR HEALTH:
+HELTI AUTA:
 
 [COLLECT]
-COLLECTED:
+SAKUPLJENO:
 
 {INFO PICKUPS}
 
 [BOMB]
-Drive your vehicle into the bomb shop to attach a ~h~bomb~w~. Cost - ~h~$1000.
+Odvezi svoje vozilo u radnju bombi da bi zakačio ~h~bombub~w~. Košta će te - ~h~$1000.
 
 [SAVE1]  
-Walk through the doorway to ~h~Save the game~w~. You cannot save during a mission. 
+Hodaj kroz vrata da ~h~Sačuvaš igru~w~. Nemožeš sačuvati za vrijeme misije. 
 
 [SAVE2] 
-Any vehicle left in this garage will be stored when the game is saved. 
+Bilo koje auto ostavljeno u garaži bit će sačuvano kada sačuvaš igru. 
 
 [AMMU]
-Go inside Ammu-Nation to buy a weapon.
+Idi unutar Mu-Nacije da bi kupio oružje.
 
 [BRIDGE1]
-When the Callahan Bridge is repaired you will be able to drive to Staunton Island.
+Kada je Kalahan most popravljen, moći ćeš otputovati to Ostvra Staunton.
 
 [TUNNEL]
-When the Porter Tunnel is opened you will be able to drive to Staunton Island.
+Kada je Porter Tunel otvoren, moći ćeš otići do Ostrva Staunton.
 
 
 {TEST STUFF}
 
 [LUIGI]
-LUIGI MISSIONS
+LUIGI MISIJES
  
 [TONI]
-TONI MISSIONS
+TONI MISIJE
 
 [JOEY]
-JOEY MISSIONS
+DZOI MISIJE
 
 [FRANK]
-SALVATORE MISSIONS
+SALVATOR MISIJE
 
 [DIABLO]
-DIABLO MISSIONS
+DIABLO MISIJE
 
 [ASUKA]
-ASUKA MISSIONS
+ASUKA MISIJE
 
 [B_SITE]
-ASUKA SUBURBAN MISSIONS
+ASUKA SUBARBAN MISIJE
 
 [KENJI]
-KENJI MISSIONS
+KENDZI MISIJE
 
 [RAY]
-RAY MISSIONS
+REJ MISIJE
 
 [LOVE]
-LOVE MISSIONS
+LJUBAVNE MISIJE
 
 [YARDIE]
-YARDIE MISSIONS
+JARDI MISIJE
 
 [HOOD]
-HOOD MISSIONS
+ULIČNE MISIJE
 
 {ZONE TEXT}
 
 {INDUSTRIAL ZONES------------------------------------------------------------------}
 
 [CITYZON]
-Liberty City
+Liberti Grad
 
 [IND_ZON]
 Portland
 
 [PORT_W]
-Callahan Point
+Kalahan mjesto
 
 [PORT_S]
-Atlantic Quays
+Atlantični Kuajovi
 
 [PORT_E]
 Portland Harbor
@@ -373,155 +373,155 @@ Portland Harbor
 Trenton
 
 [S_VIEW]
-Portland View
+Portland Pogled
 
 [CHINA]
-Chinatown
+Grad Kine
 
 [EASTBAY]
-Portland Beach
+Portland Plaža
 
 [LITTLEI]
-Saint Mark's
+Ulica Svetog Marka
 
 [REDLIGH]
-Red Light District
+Ulica Crvenog Svijetla
 
 [TOWERS]
-Hepburn Heights
+Visine Hepburn
 
 [HARWOOD]
-Harwood
+Harvud
 
 [ROADBR1]
-Callahan Bridge
+Most Kalahan
 
 [ROADBR2]
-Callahan Bridge
+Most Kalahan
 
 [TUNNELP]
-Porter Tunnel
+Porter Tunel
 
 [BOMB1]
-8-Ball's Garage
+8-Ball Garaža
 
 
 {COMMERCIAL ZONES------------------------------------------------------------------}
 
 [COM_ZON]
-Staunton Island
+Staunton Ostrvo
 
 [STADIUM]
 Aspatria
 
 [HOSPI_2]
-Rockford
+Rokford
 
 [UNIVERS]
-Liberty Campus
+Liberti Kamp
 
 [CONSTRU]
 Fort Staunton
 
 [PARK]
-Belleville Park
+Gelvil Park
 
 [COM_EAS]
-Newport
+Njuport
 
 [SHOPING]
-Bedford Point 
+Bedford Mjesto 
 
 [Yakusa]
-Torrington
+Torington
 
 {SUBURBAN ZONES------------------------------------------------------------------}
 
 [SUB_ZON]
-Shoreside Vale
+Obala Vale
 
 [AIRPORT]
-Francis Intl. Airport
+Francis Int. Aerodrom
 
 [PROJECT]
-Wichita Gardens
+Dvorišta Vićita
 
 [SUB_IND]
-Pike Creek
+Pajk Krik
 
 [SWANKS]
-Cedar Grove
+Cedar Grou
 
 [BIG_DAM]
-Cochrane Dam
+Kokrhane Dam
 
 [SUB_ZO2]
-Shoreside Vale
+Obala Vale
 
 [SUB_ZO3]
-Shoreside Vale
+Obala Vale
 
 {CAR NAMES-----------------------------------------------------------------------------}
 
 [CAR_1]
-Ambulance
+Ambulanta
 
 [CAR_2]
-Firetruck
+Vatrogasno Vozilo
 
 [CAR_3]
-Police
+Policijsko Vozilo
 
 [CAR_4]
-Enforcer
+Izvršilac
 
 [CAR_5]
-Barracks
+Kasarna
 
 [CAR_6]
-Rhino
+Tenk
 
 [CAR_7]
-FBIcar
+FBI Vozilo
 
 [CAR_8]
-Securicar
+Sekjuriti Vozilo
 
 [CAR_9]
-Moonbeam
+Mjesečeva greda
 
 [CAR_10]
-Coach
+Trener
 
 [CAR_11]
-Flatbed
+Ravni Krevet
 
 [CAR_12]
-Linerunner
+Trkača Linija
 
 [CAR_13]
-Trashmaster
+Majstor Smeća
 
 [CAR_14]
 Patriot
 
 [CAR_15]
-Mr Whoopee
+Gospodim Hupi
 
 [CAR_16]
-Mule
+Mazga
 
 [CAR_17]
-Yankee
+Janki
 
 [CAR_18]
-Pony
+Poni
 
 [CAR_19]
-Bobcat
+Bobkat
 
 [CAR_20]
-Rumpo
+Rampo
 
 [CAR_21]
 Blista
@@ -536,13 +536,13 @@ Bus
 Sentinel
 
 [CAR_25]
-Cheetah
+Gepard
 
 [CAR_26]
-Banshee
+Banši
 
 [CAR_27]
-Stinger
+Ljepljivac
 
 [CAR_28]
 Infernus
@@ -554,13 +554,14 @@ Esperanto
 Kuruma
 
 [CAR_31]
-Stretch
+Razvučen
 
 [CAR_32]
-Perennial
+Perenial
 
 [CAR_33]
 Landstalker
+
 
 [CAR_34]
 Manana
@@ -569,63 +570,63 @@ Manana
 Idaho
 
 [CAR_36]
-Stallion
+Stalion
 
 [CAR_37]
-Taxi
+Taksi
 
 [CAR_38]
-Cabbie
+Kabi
 
 [CAR_39]
-Buggy
+Bagi
 
 {GENERAL CONTACT TEXT------------------------------------------------------------------}
 
 [LUIGIS]
-Luigi's Place
+Luidžijevo mjesto
 
 [GOAWAY]
-~g~You are already on a mission!
+~g~Već si na misiji!
 
 [LUIGGO]
-~g~Luigi's interviewing some new girls -Come back later!
+~g~Luidži intrervijueniše neke nove cure -Vrati se kasnije!
 
 [JOEYGO]
-~g~Joey's out on the town with Misty -Drop by later!
+~g~Džoi je napolju s Misti -Vrati se kasnije!
 
 [TONIGO]
-~g~Toni's taken his Momma to the opera -Call in some other time!
+~g~Toni je odveo svoju majku na operu -Nazovi neki drugi put!
 
 [KEMUGO]
-~g~Maria and Kemuri are all tied up at the moment -Drop by later!
+~g~Marija i Kemkuri su zauzeti trenuto. -Vrati se kasnije!
 
 [KENJGO]
-~g~Kenji is attending a Yakuza meeting -Call by some other time!
+~g~Kendži je na Jakuza sastanku -Nazovi neki drugi put!
 
 [RAYGO]
-~g~Ray has other toilets to hang around -Try again later!
+~g~Rej ima neke druge toalete.-Pokušaj ponovo kasnije!
 
 [LOVEGO]
-~g~Donald Love has other business to attend to -Make an appointment later!
+~g~Donald Ljubav ima neke druge poslove trenutno. -Zakaži kasnije!
 
 [KENSGO]
-~g~Kenji is busy! -Call by later!
+~g~Kendži je zauzet! -Nazovi kasnije!
 
 {[ASUSGO]
 ~g~Asuka is not available at this time!}
 
 [HOODGO]
-~g~The Hoods are not available at this time!
+~g~Ulice nisu dostupne trenutno!
 
 [WRONGT1]
-~g~Come back between 05:00 and 21:00 for a job 
+~g~Vrati se između 05:00 i 21:00 za posao 
 
 [WRONGT2]
-~g~Come back between 06:00 and 14:00 for a job 
+~g~Vrati se nazad između 06:00 i 14:00 za posao
 
 [WRONGT3]
-~g~Come back between 15:00 and 00:00 for a job
+~g~Vrati se između 15:00 i 00:00 za posao
 
 {GUN TRAINING TEXT---------------------------------------------------------------------------------------------------}
 
